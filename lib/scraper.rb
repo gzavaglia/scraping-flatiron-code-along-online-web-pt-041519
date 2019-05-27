@@ -16,7 +16,7 @@ class Scraper
     end #end do 
   end #end print_courses method 
   
-  def self.get_page
+  def get_page
     
   end
 end
